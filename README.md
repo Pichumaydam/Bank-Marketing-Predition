@@ -2,7 +2,7 @@
 
 This dataset is based on "Bank Marketing" UCI dataset (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
-## Interpretation for input variables:
+### Interpretation for input variables:
    1 - age (numeric)
    
    2 - job : type of job (categorical: "admin.","blue-collar","entrepreneur","housemaid","management","retired","self-employed","services","student","technician","unemployed","unknown")
@@ -43,5 +43,5 @@ This dataset is based on "Bank Marketing" UCI dataset (http://archive.ics.uci.ed
   
   20 - nr.employed: number of employees - quarterly indicator (numeric)
 
-## Output variable (desired target):
+### Output variable (desired target):
   21 - y - has the client subscribed a term deposit? (binary: "yes","no")
